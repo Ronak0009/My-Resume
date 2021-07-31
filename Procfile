@@ -1,1 +1,3 @@
-web: gunicorn Resume.wsgi --log-file -
+web: gunicorn Resume.wsgi:application --log-file - --log-level debug
+python manage.py collectstatic --noinput
+manage.py migrate
