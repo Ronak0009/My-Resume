@@ -1,0 +1,7 @@
+@import "home.css";
+
+#myCarousel{
+    width: 100%;
+    float: left;
+    align-content: center;
+}
