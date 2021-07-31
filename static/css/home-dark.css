@@ -61,7 +61,7 @@ body{
     margin-left: 10%;
     margin-top: 3%;
     /* border-color:#9c88ffcc ; */
-    min-width: 800px;
+    min-width: 782px;
 
 }
 /* .card :hover{
@@ -121,7 +121,7 @@ body{
     margin-left: 10%;
     margin-top: 2%;
     /* border-color:#9c88ffcc; */
-    min-width: 800px;
+    min-width: 782px;
 }
 
 .content-2{
@@ -182,7 +182,7 @@ body{
     padding: 3px 0px 3px 3px;
     box-shadow: 0px 0px 4px 5px rgba(138, 138, 138, 0.185);
     /* border-color:#9c88ffcc; */
-    min-width: 800px;
+    min-width: 782px;
     margin-left: 10%;
     margin-top: 2%;
   }
@@ -271,7 +271,7 @@ padding-right:7%
     /* border-color:#9c88ffcc; */
     margin-left: 10%;
     margin-top: 2%;
-    min-width: 800px;
+    min-width: 782px;
     border-color:0.5px solid #4e4d68;
 
 }
