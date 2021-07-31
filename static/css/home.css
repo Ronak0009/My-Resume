@@ -105,7 +105,7 @@ body{
 #about-line{
     font-size: 25px;
     font-weight: 50;
-    color: rgb(114, 114, 114);
+    color: rgb(85, 84, 84);
 }
 
 /*card-body-2*/
@@ -163,8 +163,10 @@ body{
 }
 .education-content td i{
     font-size: 16px;
-    color: rgb(114, 114, 114);
-    font-weight: 100;
+    /* color: rgb(114, 114, 114); */
+    color: rgb(85, 84, 84);
+    font-weight: 480;
+    
 }
 
   .attachement{
